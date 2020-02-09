@@ -4,12 +4,12 @@
 ## Title: BilkenTransportation
 
 ## Participants
-[Hamza Pehlivan](https://github.com/hamzapehlivan) 
-[Dogukan Köse](https://github.com/kandogu)
-[Musab Oksas](https://github.com/mmoksas68)
-[Fatih Uyanik](https://github.com/FatihSevbanUyanik)
-[Aybüke Ertekin](https://github.com/aybukeertekin)
-[Meryem Efe](https://github.com/meryemefe)
+[Hamza Pehlivan](https://github.com/hamzapehlivan) -
+[Dogukan Köse](https://github.com/kandogu) -
+[Musab Oksas](https://github.com/mmoksas68) -
+[Fatih Uyanik](https://github.com/FatihSevbanUyanik) -
+[Aybüke Ertekin](https://github.com/aybukeertekin) -
+[Meryem Efe](https://github.com/meryemefe) -
 
 
 ## Description: 
